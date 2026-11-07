@@ -1,0 +1,13 @@
+node_modules
+dist
+docs
+.pnpm-store
+.openai
+.DS_Store
+
+# Generated media and working documents are not part of the application source.
+outputs/apt_mv/*.mp3
+outputs/apt_mv/*.mp4
+outputs/apt_mv/stills/
+analysis/lyric-reference/*.png
+文字粒子瀑布流播放器外观设计专利交底书初稿.docx
